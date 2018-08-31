@@ -1,1 +1,2 @@
 S ="Venkat" 
+len(S)
